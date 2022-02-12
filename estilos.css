@@ -126,5 +126,17 @@ footer{
     align-items: center;
     font-family: 'Gideon Roman', cursive;
     font-size: 20px;
-    color:whitesmoke
+    color:whitesmoke;
+    float:left;
+}
+
+.Servicios_1{
+    color:black;
+    font-size: 20px;
+    font-family: 'Gideon Roman', cursive;
+    float:right;
+    width: 1050px;
+    border: 1px;
+    background-color: rgb(228, 228, 169);
+    opacity: 0.8;
 }

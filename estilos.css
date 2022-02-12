@@ -1,0 +1,130 @@
+header{
+    background-image: url(/Img/head.png);
+    background-size:cover;
+    font-family: 'Gideon Roman', cursive; 
+    font-size: 18px;
+    align-items: center;
+    color:whitesmoke;
+    
+}
+
+
+
+body{
+    background-image: url(/Img/dark.jpg);
+    background-size:cover;
+    text-align: center;
+}
+nav>a{
+    color: rgba(255, 255, 255, 0.795);
+    border: 1px;
+    border-style: double;
+    text-decoration: none;
+    background-color: none;
+    font-family: font-family:'Redressed', cursive; }
+
+
+.quien_soy{
+    font-size: 25px;
+    font-family: 'Gideon Roman', cursive;
+    border:1px;
+    border-style: double;
+    border-color: black;
+    background-color: rgba(233, 202, 202, 0.658);
+    opacity: 0.9;
+    line-height: 110%;
+    
+}
+
+
+.Servicios{
+    text-align: center;
+    font-size: 25px;
+    font-family: 'Gideon Roman', cursive;
+    border:1px;
+    border-style: double;
+    border-color: black;
+    background-color: rgba(240, 185, 166, 0.822);
+    opacity: 0.7;
+}
+.Habilidades{
+    font-size: 23px;
+    font-family: 'Gideon Roman', cursive;
+    float:left;
+    width: 400px;
+    height: 350px;
+    border-right: 4px;
+    border-style: double;
+    border-color: gray;
+    color: azure;
+}
+footer{
+    text-align: center;
+    padding: 3px;
+    font-size: 20px ;
+    color: azure;
+    font-family: 'Gideon Roman', cursive;
+}
+
+.informacion1{
+    float: left;
+    background-color:none;
+    width:750px;
+    height:460px;
+    color:white;
+    font-size: 20px;
+    font-family: 'Gideon Roman', cursive;
+}
+
+.informacion{
+    float:right;
+    background-color: azure;
+    width:750px;
+    height:460px;
+    font-size: 20px;
+    font-family: 'Gideon Roman', cursive;
+    opacity: 0.6;
+}
+
+.informacion3{
+    color:whitesmoke;
+    font-family: 'Gideon Roman', cursive;
+    font-size: 20px;
+    float:left
+
+}
+
+.Contacto{
+    background-color: beige;
+    align-items: center;
+    font-size: 20px;
+    font-family: 'Gideon Roman', cursive;
+    color:black;
+    width:400px;
+    height: 200px;
+    opacity: 0.6;
+    
+   
+}
+
+.informacion3{
+    align-items: center;
+    font-family: 'Gideon Roman', cursive;
+    width:1500px;
+    background-color: rgba(245, 245, 215, 0.918);
+    opacity: 0.6;
+    color: black;
+}
+
+.intereses{
+    color:whitesmoke;
+    font-size: 20px;
+    font-family: 'Gideon Roman', cursive;
+}
+
+.Texto1{
+    align-items: center;
+    font-family: 'Gideon Roman', cursive;
+    font-size: 20px;
+    color:whitesmoke
+}

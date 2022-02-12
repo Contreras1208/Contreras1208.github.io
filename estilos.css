@@ -1,5 +1,5 @@
 header{
-    background-image: url(/Img/header2.jpg)
+    
     background-size:cover;
     font-family: 'Gideon Roman', cursive; 
     font-size: 18px;
@@ -11,7 +11,7 @@ header{
 
 
 body{
-    background-image: url(https://images.squarespace-cdn.com/content/v1/5d4cfd87082420000108b311/1566718849902-809OYSILCPJLAKT97XWE/futuristic-technology-abstract-background-beautiful-footage-087637197_prevstill.jpeg?format=2500w);
+    background-image: url(/Img/dark.jpg);
     background-size:cover;
     text-align: center;
 }
